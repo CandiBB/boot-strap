@@ -1,0 +1,27 @@
+/* candice black 7/21/23 */
+.heading{
+    box-shadow: 5px 5px 25px 8px grey;
+    padding: 25px;
+}
+footer{
+    text-align: center;
+    padding: 15px;
+}
+.head{
+    text-align: center;
+}
+.top{
+    color:blue;
+}
+.amt ul li{
+    list-style-type: none;
+    
+    
+}
+.amt{
+    background-color: aquamarine;
+    text-align: center;
+}
+.contact{
+    text-align: center;
+}
